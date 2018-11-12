@@ -1,6 +1,6 @@
 {
   "name": "react-use-former",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A form hook for React with field level validation",
   "main": "lib/index.js",
   "scripts": {
