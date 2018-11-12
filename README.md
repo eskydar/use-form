@@ -1,20 +1,20 @@
-# useShortcut react hook
+# useForm hook for React
 
 Install it with yarn:
 
 ```
-yarn add react-use-form
+yarn add react-use-former
 ```
 
 Or with npm:
 
 ```
-npm i react-use-form --save
+npm i react-use-former --save
 ```
 
 ## Demo
 
-The simplest way to start playing around with react-use-form is with this CodeSandbox snippet:
+The simplest way to start playing around with react-use-former is with this CodeSandbox snippet:
 https://codesandbox.io/s/ym9zlov3nj
 
 ```javascript
