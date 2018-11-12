@@ -1,0 +1,33 @@
+{
+  "name": "react-use-form",
+  "version": "0.0.1",
+  "description": "A form hook for React with field level validation",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel ./src --out-dir ./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eskydar/use-form.git"
+  },
+  "keywords": [
+    "form",
+    "react-hook",
+    "react",
+    "validation",
+    "input"
+  ],
+  "author": "Sebastiaan van Arkens (sebastiaan@vanarkens.nl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eskydar/use-form/issues"
+  },
+  "peerDependencies": {},
+  "homepage": "https://github.com/eskydar/use-form#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
