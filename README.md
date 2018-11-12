@@ -15,7 +15,7 @@ npm i react-use-form --save
 ## Demo
 
 The simplest way to start playing around with react-use-form is with this CodeSandbox snippet:
-https://codesandbox.io/s/jj8l8y0m79
+https://codesandbox.io/s/ym9zlov3nj
 
 ```javascript
 import React, { useState } from 'react';
